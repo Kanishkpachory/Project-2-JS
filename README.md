@@ -1,6 +1,6 @@
 # Project-2-JS
 
-This project demonstrates the use of HTML, CSS, and JavaScript in building a responsive web application. The project is deployed on [Vercel](https://project-2-js.vercel.app).
+This project demonstrates the use of HTML, CSS, and JavaScript in building a responsive web application. The project is deployed on [Vercel](https://project-2-js.vercel.app)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
